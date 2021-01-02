@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Andika+New+Basic&display=swap');
+body{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden !important;
+    
+}
+html{
+    overflow-x:  hidden !important;
+    scroll-behavior: smooth;
+}
+section {
+    min-width: 100%;
+    width: 100%;
+    min-height: 100%;
+    height: 100%;
+    
+}
+.row{
+    margin-right: 0px !important;
+}
+
+li{
+    display: inline;
+    margin-left: -4vh;
+    padding-right: 4rem;
+   
+}
+.funt{
+    font-family: 'Andika New Basic', sans-serif;
+}
+.collapse.show{
+    text-align: center;
+    padding-left: 25%;
+}
+.collapsing{
+    text-align: center;
+    padding-left: 25%;
+}
+.anasayfa{
+  
+  margin: 0px;
+  width: 100%;
+  height: 100%;
+
+  background: url(/images/Site.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
+    
+.siteyazi{
+    text-align: center !important;
+    margin-left: 35%;
+    height: 20vh;
+    padding-left: 5%;
+    padding-right: 5%;
+    
+    font-family: 'Andika New Basic', sans-serif;
+
+}
+.siteyazi h1{
+    color: white;
+}
+.siteyazi2{
+    margin-top:30%;
+    color: white;
+    font-family:  'Andika New Basic', sans-serif;
+    
+}
+.resimlink2{
+    margin-left: 40%;
+}
+.resimlink{
+    margin-right:27%;
+    margin-top:10%;
+}
+
+.hakkimdakismi{
+    color: grey;
+    height: 100%;
+    min-height: 100vh;
+    
+}
+.hakkimdaduzen{
+    
+    margin-top: 0%;
+    margin-bottom:0%;
+    padding-bottom: 0%;
+    padding-top: 15%;
+    font-size: 23px;
+}
+.ekipmankismi{
+    background: linear-gradient(to top, rgba(170, 15, 1, 0) 0%, rgba(92, 77, 66, 0.81) 100%);
+    background-color: #AA0F01;
+    width: 100%;
+    height: 5vh;
+}
+
+.urunler{
+    padding-top: 7rem;
+    
+}
+.urunlersatir{
+    padding-bottom:2rem;
+}
+.sitefooter{
+    height: 40vh;
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0) 0%,rgba(170, 15, 1, 0.3)  100%);;
+    margin-bottom: 0rem;
+}
+
+.section{
+    padding: 8rem  0rem;
+    
+}
+.resim{
+    
+    height: 100vh;
+    padding-top: 4.5rem;
+    padding-bottom: 0;
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0) 0%, rgba(92, 77, 66, 0.81) 100%), url(../images/Site.png);
+    background-image: linear-gradient(to bottom, rgba(116, 107, 107, 0) 0%, rgba(64, 64, 65, 0.801) 100%), url(../images/Site.png);
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.card{
+    background: radial-gradient(circle, rgba(170, 15, 1, 0) 0%, rgba(92, 77, 66, 0.81) 100%);
+    background-color: #AA0F01;
+    color:white;
+    min-height: 100%;
+}
+.col{
+    margin-bottom: 3rem;
+}
+
+.sosyalmedya{
+margin-top: 20%;
+margin-bottom: 20%;
+
+}
+.sos{
+    margin-top: 10%;
+    
+}
+.sos2{
+    margin-top: 3.5%;
+}
+.sosyalmedya li a{
+    color: #AA0F01;
+    font-size: 40px;
+
+
+}
+.footersosyalmedya{
+    margin-left: 10%;
+}
+
+.linkk{
+    color: #AA0F01;
+}
